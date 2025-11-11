@@ -34,3 +34,12 @@ WHERE [Order_ID] IS NULL
    OR [Region] IS NULL
    OR [City] IS NULL
    OR [Country] IS NULL;
+
+--Verifying dates out of range--
+SELECT *
+FROM dbo.Sales_Profit
+WHERE Order_Date > CAST(GETDATE() AS DATE);
+
+SELECT *
+FROM dbo.Sales_Profit
+WHERE YEAR(CONVERT(date, Order_Date, 101)) > 2019
