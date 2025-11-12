@@ -41,3 +41,4 @@ Source: [Kaggle – Sales & Profit Data for Electrical Appliances](https://www.k
 
 ##  Visuals
 A dashboard with visuals was made using Power BI Desktop, where each one of them presents one or more insights in a clear way.
+![Visuals](file:///C:/Users/migue/AppData/Local/Temp/Power%20BI%20Desktop/print-job-b53c1311-cdd9-4d0b-be56-5b88912bb46a/Untitled.pdf)
