@@ -18,6 +18,13 @@ Analysis  of sales and profits for "Electrical Appliances" dataset with SQL Serv
 ## 🗂 Dataset
 Source: [Kaggle – Sales & Profit Data for Electrical Appliances](https://www.kaggle.com/datasets/tanmayunhale/sales-and-profit-data-for-electrical-appliances)  
 
+## Data Exploration and quick insights
+- 15000 records
+- 1638 Unique Products
+- The Average profit is 2105.82915217281
+- Total Profit is 31587437.2825922
+- The product with the highest sales "Contoso Projector 1080p X980 Black"
+
 ## 📊 Questions
 - Which are the products with the highest average profit margin?
 - Which region has the highest toal sales in the most recent year?
